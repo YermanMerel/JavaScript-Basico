@@ -2,6 +2,7 @@
 // ; -> Delimitar el final de una línea
 const b = 4;
 b + 4;
+console.log('b', b)
 
 // . -> Se utiliza en los objetos para acceder a los atributos 
 // movil.anchura
